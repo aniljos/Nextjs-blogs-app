@@ -1,0 +1,10 @@
+export default async function AboutPage(){
+
+    
+    return (
+        <div>
+            <h3>About</h3>
+            <p>This is Next.js 15 application</p>
+        </div>
+    )
+}
