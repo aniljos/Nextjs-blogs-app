@@ -2,9 +2,9 @@ export default async function AboutPage(){
 
     
     return (
-        <div>
+        <div className="alert alert-info">
             <h3>About</h3>
-            <p>This is Next.js 15 application</p>
+            <p>Next.js Multi Zones:  Blogs Application</p>
         </div>
     )
 }
